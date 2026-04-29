@@ -1,0 +1,17 @@
+# Authentication in Kubernetes
+
+## Q. What is the purpose of authentication in Kubernetes?
+
+### Choose the correct answer from below:
+
+  - To define resource limits
+
+  - To verify the identity of users or systems
+
+  - To control traffic between pods
+
+  - To enforce resource quotas
+
+---
+
+# Answer
