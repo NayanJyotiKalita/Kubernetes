@@ -1,0 +1,17 @@
+# Admission Controllers
+
+## Q. Which of the following admission controllers would you use to automatically add default labels to new Pods?
+
+### Choose the correct answer from below:
+
+  - NamespaceLifecycle
+
+  - LimitRanger
+
+  - Validating Admission Controller
+  
+  - Mutating Admission Controller
+
+---
+
+# Answer
